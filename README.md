@@ -2,7 +2,7 @@
 
 A modern, responsive landing page built with **TypeScript**, **JavaScript**, and **CSS** — designed to deliver a smooth, engaging user experience through clean UI and fluid animations.
 
-![Landing Page Preview](interactive-landing-page-two.vercel.app)
+![Landing Page Preview](https://interactive-landing-page-two.vercel.app/)
 
 ---
 
